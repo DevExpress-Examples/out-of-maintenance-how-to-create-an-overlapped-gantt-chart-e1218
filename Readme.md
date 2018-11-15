@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Series_OverlappedGanttChart/Form1.cs)
+<!-- default file list end -->
 # How to create an Overlapped Gantt chart
 
 
