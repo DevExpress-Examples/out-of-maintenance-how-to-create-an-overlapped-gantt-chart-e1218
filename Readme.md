@@ -5,10 +5,8 @@
 <!-- default file list end -->
 # How to create an Overlapped Gantt chart
 
+The following example demonstrates how to create an [Overlapped Gantt](https://docs.devexpress.com/WindowsForms/2982/controls-and-libraries/chart-control/series-views/2d-series-views/gantt-series-views/overlapped-gantt-chart?p=netframework) chart at runtime.
 
-<p>The following example demonstrates how to create an <a href="http://devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument2982.htm">Overlapped Gantt</a> chart at runtime.</p>
-<p>Note that this series view type is associated with the <a href="http://devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument5910.htm">Gantt Diagram</a> type, and you should cast your <a href="http://devexpress.com/Help/Content.aspx?help=XtraCharts&document=CustomDocument6017.htm">diagram</a> object to this type, in order to access its specific options.<br /><strong>NOTE</strong>: Starting from v2014 vol 1, text pattern properties (<a href="https://documentation.devexpress.com/#CoreLibraries/DevExpressXtraChartsAxisLabel_TextPatterntopic">AxisLabel.TextPattern</a>, <a href="https://documentation.devexpress.com/#CoreLibraries/DevExpressXtraChartsSeriesLabelBase_TextPatterntopic">SeriesLabelBase.TextPattern</a>, <a href="https://documentation.devexpress.com/#CoreLibraries/DevExpressXtraChartsSeriesBase_LegendTextPatterntopic">SeriesBase.LegendTextPattern</a>) have been introduced instead of point options. </p>
+Note that this series view type is associated with the [Gantt Diagram](https://docs.devexpress.com/WindowsForms/5910/controls-and-libraries/chart-control/diagram/gantt-diagram?p=netframework) type, and you should cast your [diagram](https://docs.devexpress.com/WindowsForms/DevExpress.XtraCharts.ChartControl.Diagram?p=netframework) object to this type, in order to access its specific options.
 
-<br/>
-
-
+Starting from v14.1, text pattern properties ([AxisLabel.TextPattern](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraCharts.AxisLabel.TextPattern?p=netframework), [SeriesLabelBase.TextPattern](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraCharts.SeriesLabelBase.TextPattern?p=netframework), [SeriesBase.LegendTextPattern](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraCharts.SeriesBase.LegendTextPattern?p=netframework)) have been introduced instead of point options.
